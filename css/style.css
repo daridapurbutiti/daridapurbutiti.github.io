@@ -345,6 +345,7 @@ Image credits: unsplash.com
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 /********************************/
@@ -358,16 +359,6 @@ Image credits: unsplash.com
 }
 
 /* footer */
-
-.full {
-    width: 100%;
-}
-.gap {
-  height: 30px;
-  width: 100%;
-  clear: both;
-  display: block;
-}
 .footer {
   background: #EDEFF1;
   height: auto;
