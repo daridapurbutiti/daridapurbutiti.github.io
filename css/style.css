@@ -49,17 +49,17 @@ body>.navbar {
 }
 .navbar-brand {
   padding: 0px;
-  margin-top: 2px;
+  /*margin-top: 2px;*/
   background-color: #ffffff;
-  border: none;
+  /*border: none;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -o-border-radius:5px;
   -ms-border-radius: 5px;
-  border-radius: 5px;
+  border-radius: 5px;*/
   margin-right: 20px;
-  margin-left: 2px;
-  height: 55px;
+  /*margin-left: 2px;
+  height: 55px;*/
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -361,10 +361,8 @@ Image credits: unsplash.com
 /* footer */
 .footer {
   background: #EDEFF1;
-  height: auto;
   padding-bottom: 30px;
   position: relative;
-  width: 100%;
   border-bottom: 1px solid #CCCCCC;
   border-top: 1px solid #DDDDDD;
 }
